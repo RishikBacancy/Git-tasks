@@ -1,0 +1,8 @@
+git init
+git config
+git clone
+git add <filename>
+git add *
+git commit -m "Commit message"
+git commit -a
+git status
