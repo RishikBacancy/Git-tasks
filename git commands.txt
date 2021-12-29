@@ -6,3 +6,8 @@ git add *
 git commit -m "Commit message"
 git commit -a
 git status
+
+git checkout -b <branchname>
+git checkout <branchname>
+git branch
+git branch -d <branchname>
